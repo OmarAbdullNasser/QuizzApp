@@ -1,7 +1,7 @@
 <template>
   <footer>
                 <small>
-                    You can find the code repo on <a href="https://github.com/Flopet17/quiz-app">Github</a>. Feel free to make any pull requests to improve the aplication.
+                    You can find the code repo on <a href="https://github.com/OmarAbdullNasser/QuizzApp">Github</a>. Feel free to make any pull requests to improve the aplication.
                 </small>
                 <p>Built with <span>&hearts;</span> by <a href="https://protifilo.herokuapp.com/">Omar AbdullNasser</a></p>
           </footer>
